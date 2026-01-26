@@ -1,6 +1,5 @@
+> This video provides a technical overview of the system's architecture and a demonstration of its real-time tracking performance.
 https://github.com/user-attachments/assets/d666da68-4de4-413b-ad2b-b3b17028fe75
-
-> The video explains the key points of the system and includes a short demo.
 
 This project demonstrates how multiple inexpensive camera nodes can be combined to provide capabilities that a single high-end sensor cannot, such as spatial triangulation and distributed coverage. The focus is on showing how system-level performance emerges from coordination between simple nodes rather than reliance on one centralized platform. This approach highlights a path toward scalable, cost-effective sensing systems under real-world constraints.
 
